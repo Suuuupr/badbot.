@@ -425,7 +425,7 @@ client.on('message', message => {
       if (message.content === "Bhelp") {
        const embed = new Discord.RichEmbed() 
            .setColor("#FF00FF")
-           .setFooter('By reebel and AَttackéeْeRً.')
+           .setFooter('By ɌаЎ')
            .setDescription(`**__أتمنى يعجبكم البوت يا أغلى ناس ❤️ 💛 💚 💙 💜 🖤__**`)
      message.author.sendEmbed(embed)
      
